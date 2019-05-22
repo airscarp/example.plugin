@@ -1,0 +1,8 @@
+{
+    "version"     : "1.0.0",
+    "name"        : "Plugin Name",
+    "menu"        : "Plugin Menu Name",
+    "alias"       : "plugin-name",
+    "os"          : ["ubuntu", "centos", "rhel", "debian", "cloudlinux", "fedora"],
+    "permissions" : ["send-command"]
+}
